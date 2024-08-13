@@ -1,0 +1,38 @@
+.ContainerDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-family: sans-serif; 
+    font-stretch: ultra-expanded;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    width: 90vw;
+    box-sizing: border-box;
+    margin: 0 20px;
+}
+
+.ContentDiv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 10px auto;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.HeaderIntro {
+    text-align: center;
+}
+
+.BioText {
+    width: 100%;
+    max-width: 75%;
+    text-align: left;
+    border: 5px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 2rem;
+    line-height: 150%;
+}

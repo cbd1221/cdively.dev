@@ -1,0 +1,13 @@
+.wizard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 50%;
+    width: 33%;
+    height: auto;
+    margin: 0 auto;
+    transform: scaleX(-1);
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+}
