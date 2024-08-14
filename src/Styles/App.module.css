@@ -1,9 +1,11 @@
 .pageDiv {
     height: 100vh;
     width: 100vw;
+}
+* {
+
     background-color: #F6D4B1;
 }
-
 
 
 .bodyDiv {
