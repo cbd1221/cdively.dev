@@ -10,6 +10,7 @@
     width: 90vw;
     box-sizing: border-box;
     margin: 0 20px;
+    min-width: 0;
 }
 
 .ContentDiv {
@@ -20,6 +21,7 @@
     justify-content: center;
     padding: 10px auto;
     color: rgba(0, 0, 0, 0.6);
+    min-width: 0;
 }
 
 .HeaderIntro {

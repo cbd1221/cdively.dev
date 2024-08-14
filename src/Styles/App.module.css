@@ -1,25 +1,13 @@
 .pageDiv {
-    display: flex;
-    flex-direction: column;
-}
-
-
-.bgDiv {
-    background-color: #F6D4B1;
     height: 100vh;
     width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -2;
+    background-color: #F6D4B1;
 }
+
+
 
 .bodyDiv {
     display: flex;
-    height: calc(100vh);
     flex-direction: column;
     justify-content: center;
     font-family: 'Courier New', Courier, monospace;

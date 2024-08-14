@@ -57,7 +57,7 @@ const AboutMe = () => {
       <p>
         TLDR: I am dedicated, versatile, and talented. Master of nothing but
         experienced with everything. I really like mobile development, and I'd
-        say that's where I am most talented. It's been awhile since I've typed
+        say that's where I am most skilled. It's been awhile since I've typed
         out any HTML, in case this site isn't already proof of that, but I did
         learn to code with Python/JS/React and once I shake off the dust I'll
         make this place more presentable. <br></br>
@@ -84,7 +84,7 @@ const AboutMe = () => {
         released when I was 9, but I thought it was the most amazing thing —
         being able type out a few lines of words and see effects in the game I
         was playing. It felt as close to magic as I could ever get and I never
-        lost that feeling
+        lost that feeling.
       </p>
       <p>
         I am a dedicated, versatile software developer with a strong foundation
