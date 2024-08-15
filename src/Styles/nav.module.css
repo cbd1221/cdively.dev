@@ -17,7 +17,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 100;
+    z-index: 1;
     opacity: 1;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
@@ -26,6 +26,7 @@
 .navBar {
     width: 100%;
     max-width: 1200px; /* Adjust this value as needed */
+    background-color: transparent;
 }
 
 .navBar ul {
@@ -36,6 +37,8 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    background-color: transparent;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.3);
 }
 
 .navLinks {
